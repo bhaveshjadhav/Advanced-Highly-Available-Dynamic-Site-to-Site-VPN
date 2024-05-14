@@ -36,3 +36,6 @@ Apply the template below and wait for `CREATE_COMPLETE` before continuing
 - [Stage3](https://github.com/bhaveshjadhav/Advanced-Highly-Available-Dynamic-Site-to-Site-VPN/blob/main/02_INSTRUCTIONS/STAGE3%20-%20TUNNEL%20CONFIGURATION.png)
 - [Stage4](https://github.com/bhaveshjadhav/Advanced-Highly-Available-Dynamic-Site-to-Site-VPN/blob/main/02_INSTRUCTIONS/STAGE4%20-%20FINAL%20BGP%20Architecture.png)
 
+
+## License
+This project is licensed under the MIT License - see the LICENSE file for details.
