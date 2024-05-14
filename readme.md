@@ -38,4 +38,4 @@ Apply the template below and wait for `CREATE_COMPLETE` before continuing
 
 
 ## License
-This project is licensed under the MIT License - see the LICENCE(https://github.com/bhaveshjadhav/Advanced-Highly-Available-Dynamic-Site-to-Site-VPN/blob/main/LICENSE) file for details.
+This project is licensed under the MIT License - see the [LICENCE](https://github.com/bhaveshjadhav/Advanced-Highly-Available-Dynamic-Site-to-Site-VPN/blob/main/LICENSE) file for details.
